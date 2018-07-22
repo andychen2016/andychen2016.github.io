@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: alexcxdq@163.com
 description: "关于软件开发与设计、读书笔记、博文翻译 | 陈晓，Launch Rocket Designer， UAV Lover， Software Engineer | 这里是 @AndyChen陈晓 的个人博客，共享星空之美。"
 keyword: "陈晓, AndyChen陈晓, AndyChen, 互联网, Web, JavaScript, UAV, Rocket"
-url: ""              # your host, for absolute URL
+url: "https://andychen2016.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
