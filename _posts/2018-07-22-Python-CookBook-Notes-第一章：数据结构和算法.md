@@ -6,8 +6,8 @@ date:         2018-07-22 12:00:00
 author:       "andychen"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
-catalog:      true
-multilingual: true
+catalog:      false
+multilingual: false
 tags:
     - Python
     - Note
